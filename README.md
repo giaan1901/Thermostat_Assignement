@@ -123,7 +123,6 @@ Set Temp: 24°C
 │
 │
 ├── Docs/
-│   ├── README.md
 │   ├── wiring_diagram.png
 │   └── state_machine_diagram.png
 │
