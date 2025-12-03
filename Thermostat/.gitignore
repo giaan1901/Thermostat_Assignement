@@ -10,7 +10,7 @@ Debug/
 *.d
 
 # ---- IDE metadata ----
-.settings/
+
 .project
 .cproject
 .loadpath
