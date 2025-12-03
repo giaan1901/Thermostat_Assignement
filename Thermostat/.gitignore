@@ -4,11 +4,6 @@
 
 # ---- Build output ----
 Debug/
-*.elf
-*.bin
-*.hex
-*.map
-*.lst
 
 # ---- Object files ----
 *.o
