@@ -74,11 +74,6 @@ All buttons support **short press**.
 
 ---
 
-## 🧠 Control Algorithm — ON/OFF Logic  
-The thermostat uses classic **hysteresis ON/OFF control**:
-
----
-
 ## 📺 LCD Display Format  
 **Normal Mode:**
 ```
